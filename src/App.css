@@ -1,0 +1,30 @@
+Body{
+  align-items: center;
+  display: flex;
+  padding-top: 50px;
+  justify-content: center;
+  text-align: center;
+}
+.h1{
+  align-items: center;
+  justify-content: center;
+  color: darkmagenta;
+}
+.h3{
+  
+  align-items: center;
+  justify-content: center;
+  color: chartreuse;
+}
+.par{
+  padding-right: 150px;
+  padding-left: 230px;
+  align-items: center;
+  justify-content: center;
+  color: saddlebrown;
+  font-size: large;
+}
+
+
+ 
+
